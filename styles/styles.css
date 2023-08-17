@@ -8,6 +8,34 @@
 }
 
 
+body {
+  padding: 24px;
+  width: clamp(200px, 80%, 100vw);
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.title {
+  font-size: 3rem;
+}
+
+.subtitle {
+  font-size: 1.3rem;
+}
+
+.grampsite {
+  text-decoration: none;
+}
+
+.category {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
 .category-link{
   display: block;
 }
