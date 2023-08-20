@@ -7,11 +7,11 @@
   margin: 0;
 }
 
+:root {
+  font-size: 62.5%;
+}
+
 @media (max-width: 600px){
-  *,
-  *::before,
-  *::after {
-  }
 
   .header-img{
     width: 300px;
@@ -28,6 +28,7 @@ body, main{
 body {
   padding: 10px 30px;
   max-width: 800px;
+  font-size:1.6rem;
 }
 
 header{
