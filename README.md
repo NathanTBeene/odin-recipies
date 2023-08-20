@@ -6,3 +6,5 @@ Initially appeared on
 [The Oden Project - Recipies](https://www.theodinproject.com/lessons/foundations-recipes).
 
 ## What I've Learned
+
+Media queries, basic HTML/CSS concepts, font-size standardization.
